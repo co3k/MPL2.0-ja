@@ -17,105 +17,90 @@ Mozilla Public License Version 2.0
 
     本文書は `表示 2.1 日本 (CC BY 2.1) <http://creativecommons.org/licenses/by/2.1/jp/>`_ の下で公開します。
 
-Definitions
-===========
+    本訳文の表現については、 http://www.mozilla-japan.org/MPL/MPL-1.1J.html にて公開されている Mozilla Public Licenses Version 1.0 の日本語訳を参考にさせていただきました。厚く御礼申し上げます。
 
-"Contributor"
--------------
+定義
+====
 
-means each individual or legal entity that creates, contributes to the creation of,
-or owns Covered Software.
+「貢献者」
+----------
 
-"Contributor Version"
----------------------
+とは、対象ソフトウェアの作成、作成に対する貢献、もしくは所有をする個人または法人を意味します。
 
-means the combination of the Contributions of others (if any) used by a Contributor
-and that particular Contributor’s Contribution.
+「貢献者バージョン」
+--------------------
 
-"Contribution"
---------------
+とは、貢献者が使用する他者による貢献 (もしあれば) と、当該貢献者による貢献との組み合わせを意味します。
 
-means Covered Software of a particular Contributor.
+「貢献」
+--------
 
-"Covered Software"
-------------------
+とは、当該貢献者による対象ソフトウェアを意味します。
 
-means Source Code Form to which the initial Contributor has attached the notice in
-Exhibit A, the Executable Form of such Source Code Form, and Modifications of such
-Source Code Form, in each case including portions thereof.
+「対象ソフトウェア」
+--------------------
 
-"Incompatible With Secondary Licenses"
---------------------------------------
+とは、初期貢献者が Exhibit A の告知文を添付したソースコード形式のもの、そのようなソースコード形式の実行可能形式のもの、またはそのようなソースコード形式の修正 (いずれの場合もその一部を含む) を意味します。
 
-means
-
-a. that the initial Contributor has attached the notice described in Exhibit B
-    to the Covered Software; or
-
-b. that the Covered Software was made available under the terms of version 1.1
-    or earlier of the License, but not also under the terms of a Secondary License.
-
-"Executable Form"
------------------
-
-means any form of the work other than Source Code Form.
-
-"Larger Work"
--------------
-
-means a work that combines Covered Software with other material, in a separate file
-or files, that is not Covered Software.
-
-"License"
----------
-
-means this document.
-
-"Licensable"
-------------
-
-means having the right to grant, to the maximum extent possible, whether at the time
-of the initial grant or subsequently, any and all of the rights conveyed by this License.
-
-"Modifications"
----------------
-
-means any of the following:
-
-a. any file in Source Code Form that results from an addition to, deletion from, or
-    modification of the contents of Covered Software; or
-
-b. any new file in Source Code Form that contains any Covered Software.
-
-"Patent Claims" of a Contributor
+「互換性のない副次的ライセンス」
 --------------------------------
 
-means any patent claim(s), including without limitation, method, process, and apparatus
-claims, in any patent Licensable by such Contributor that would be infringed, but for
-the grant of the License, by the making, using, selling, offering for sale, having made,
-import, or transfer of either its Contributions or its Contributor Version.
+とは、
 
-"Secondary License"
--------------------
+a. 初期貢献者が対象ソフトウェアに添付した Exhibit B に含まれる告知文、あるいは、
 
-means either the GNU General Public License, Version 2.0, the GNU Lesser General Public
-License, Version 2.1, the GNU Affero General Public License, Version 3.0, or any later
-versions of those licenses.
+b. バージョン 1.1 以下の本ライセンスのもとに利用可能な対象ソフトウェアだが、副次的ライセンスでも許諾されているわけではないもの
 
-"Source Code Form"
-------------------
+を意味します。
 
-means the form of the work preferred for making modifications.
+「実行可能形式」
+----------------
 
-"You" (or "Your")
------------------
+とは、ソースコード形式とは違った動作をおこなうあらゆる形式を意味します。
 
-means an individual or a legal entity exercising rights under this License.
-For legal entities, "You" includes any entity that controls, is controlled by,
-or is under common control with You. For purposes of this definition, "control"
-means (a) the power, direct or indirect, to cause the direction or management of such entity,
-whether by contract or otherwise, or (b) ownership of more than fifty percent (50%) of
-the outstanding shares or beneficial ownership of such entity.
+「拡大開発」
+------------
+
+とは、対象ソフトウェアを、分割されたファイルやファイル群における対象ソフトウェアに存在しない他の素材と組み合わせる開発を意味します。
+
+「本ライセンス」
+----------------
+
+とは、この文書を意味します。
+
+「ライセンス可能な」
+--------------------
+
+とは、このライセンスによって伝達された権利の一部または全部を最大限可能な範囲で許諾する権利を有すること (初回の許諾時か、その後かを問わない) を意味します。
+
+「修正コード」
+--------------
+
+とは、以下のいずれかを意味します。
+
+a. ソースコード形式におけるあらゆるファイルに由来する、対象ソフトウェアに対する追加、削除、編集、あるいは、
+
+b. 対象ソフトウェアを含むソースコード形式の新しいファイル
+
+貢献者の「特許請求の範囲」
+--------------------------
+
+とは、本ライセンスの許諾を、貢献または貢献者バージョンのどちらか一方の、作成、使用、販売、販売目的の提供、 having made 、輸入、運送によって得ているが、権利を侵害されてしまった貢献者による、ライセンス可能な特許における方法、プロセス、装置に関する請求範囲を含み、これらに限定されない、あらゆる特許請求の範囲を意味します。
+
+「副次的ライセンス」
+--------------------
+
+とは、 General Public License, Version 2.0、 the GNU Lesser General Public License, Version 2.1、 the GNU Affero General Public License, Version 3.0、もしくはこれらのライセンスのより後のバージョンを意味します。
+
+「ソースコード形式」
+--------------------
+
+とは、修正作業がよく機能する形式を意味します。
+
+「あなた」 (もしくは「あなたの」)
+----------------------------------
+
+とは、本ライセンスに基づく権利を行使する個人または法人を意味します。法人の場合、「あなた」には、あなたを支配する、あなたによって支配する、またはあなたと共通の支配下にあるものが含まれます。この定義における「支配」とは、 (a) 契約その他により、直接または間接に当該団体の監督または運営を行う権限を有すること、または (b) 当該団体の 50% を超える発行済み株式または持分権を所有することを意味します。
 
 License Grants and Conditions
 =============================
